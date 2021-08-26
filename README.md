@@ -7,4 +7,4 @@ BusyBox: https://play.google.com/store/apps/details?id=stericson.busybox&hl=en_U
 
 ### Preview:
 
-![](https://cdn.upload.systems/uploads/QtyRFhFc.png)
+[](https://cdn.upload.systems/uploads/QtyRFhFc.png)
